@@ -1,4 +1,4 @@
-#to support quickly moving my custom application configs between machines
+#### to support quickly moving my custom application configs between machines
 
 
 #### sublime
@@ -18,3 +18,6 @@ rm -rf ~/Library/Preferences/com.googlecode.iterm2.plist
 
 ln -s ~/.dotfiles/iterm2/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 
+=======
+###  to support quickly moving my custom application configs between machines
+>>>>>>> 54e702b889fefaa875995153faa9097e5b63fd17
